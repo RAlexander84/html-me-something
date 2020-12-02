@@ -1,0 +1,32 @@
+div {
+    margin: auto;
+    background-color: lightskyblue;
+    color: snow;
+}
+
+img {
+    padding: 3px;
+    background-color: violet;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+#not-pictured {
+    padding: 0px;
+}
+
+p {
+    background-color: violet;
+    font-size: 24;
+}
+
+.end {
+    background-color: violet;
+    font-size: 48;
+}
+
+#pride {
+    margin-top: 10px;
+}
